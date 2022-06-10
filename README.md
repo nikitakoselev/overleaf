@@ -28,7 +28,7 @@
 
 ## Keeping up to date
 
-Sign up to the [mailing list](https://mailchi.mp/overleaf.com/community-edition-and-server-pro) to get updates on Overleaf Releases and development
+Sign up to the [mailing list](https://mailchi.mp/overleaf.com/community-edition-and-server-pro) to get updates on Overleaf Releases and development.
 
 ## Installation
 
